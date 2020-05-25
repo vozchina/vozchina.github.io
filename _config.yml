@@ -8,38 +8,32 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: 正道之声  # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: 传播正道的声音  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  光复中华，时代革命！
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://vozchina.github.io'
 
-author: your_full_name                  # change to your full name
+author: 正道之声
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/avatar.png   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: vozchina
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: vozchina
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Twitter
+  email: vozchina.org@gmail.com
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://twitter.com/vozchina
+    - https://github.com/vozchina
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -49,7 +43,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/New_York
 
 google_analytics:
   # Fill with your Google Analytics ID
@@ -65,8 +59,8 @@ google_analytics:
     cache: false  # pv data local cache, good for the users from GFW area.
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true
+  shortname: '正道之声'
 
 
 # Prefer color scheme setting, available values:
@@ -115,7 +109,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Posts
+          label: 文章
           url: /
   -
     scope:
@@ -130,10 +124,10 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: Home
+          label: 主页
           url: /
         -
-          label: Tags
+          label: 标签
           url: /tabs/tags/
   -
     scope:
@@ -143,10 +137,10 @@ defaults:
       location: Category
       breadcrumb:
         -
-          label: Home
+          label: 主页
           url: /
         -
-          label: Categories
+          label: 分类
           url: /tabs/categories/
   -
     scope:
@@ -156,7 +150,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
+          label: 主页
           url: /
   -
     scope:
