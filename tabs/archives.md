@@ -1,5 +1,5 @@
 ---
-title: Archives
+title: 历史记录
 
 # The Archives of posts.
 # v2.0
