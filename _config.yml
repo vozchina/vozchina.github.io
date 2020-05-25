@@ -59,7 +59,7 @@ google_analytics:
     cache: false  # pv data local cache, good for the users from GFW area.
 
 disqus:
-  comments: true
+  comments: false
   shortname: '正道之声'
 
 
