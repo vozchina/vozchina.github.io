@@ -1,11 +1,7 @@
 ---
-title: 关于
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
+title: 关于本站
 ---
 
-正道之声
+本网站收集爆料革命音频转成的文字版，特别鸣谢以下战友：
+
+- 奋笔疾书的课代表 [@ling52804443](https://twitter.com/ling52804443)
