@@ -2,6 +2,8 @@
 
 传播爆料革命的文字版
 
+浏览器访问地址：[vozchina.github.io](vozchina.github.io)
+
 ## 如何贡献
 
 - 创建一个`github`账户。
