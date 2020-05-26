@@ -2,7 +2,7 @@
 
 传播爆料革命的文字版
 
-浏览器访问地址：[vozchina.github.io](vozchina.github.io)
+浏览器访问地址：[vozchina.github.io](https://vozchina.github.io)
 
 ## 如何贡献
 
