@@ -18,3 +18,13 @@
 - 创建一个`pull request`，这样我就可以把你的代码合并到一起。
 
 > 如有任何问题，请到本项目创建一个问题 (`issue`)。
+>
+> 提交代码尽量不要使用个人真实信息，一定要记得修改`~/.gitconfig`。
+>
+> 如正道之声的修改如下
+
+```ini
+[user]
+  name = vozchina
+  email = vozchina.org@gmail.com
+```
