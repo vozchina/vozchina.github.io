@@ -1,3 +1,14 @@
+---
+title: 2020.05.26 路德时评（路安墨谈）
+author: 路德社
+date: 2020-05-26 07:00:00 -0400
+categories: [路德访谈]
+tags: [路德,安红,墨博士]
+---
+
+> 文字来源：[@ling52804443](https://twitter.com/ling52804443)
+>
+> YouTube 视频地址：[https://www.youtube.com/watch?v=wkSTr-YIGvk](https://www.youtube.com/watch?v=wkSTr-YIGvk)
 
 ## 00:00:12
 
