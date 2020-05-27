@@ -13,7 +13,7 @@ panel:
 post:
   relate_posts: "更多"
   button:
-    next: Newer
-    previous: Older
+    next: 下一个
+    previous: 上一个
 
-search_hint: "Search"   # text show on search bar
+search_hint: "搜索"   # text show on search bar
